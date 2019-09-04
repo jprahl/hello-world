@@ -1,5 +1,7 @@
 # Welcome to GitHub
 <p>Hello World! I’m Briel. This is my website!</p>
+
+This is my first formal use of Github. It is my hope that uploading my MATLAB files can be done with ease.
 ## Repositories
 
 Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
